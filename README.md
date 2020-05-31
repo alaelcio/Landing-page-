@@ -4,13 +4,13 @@
 
 # Sobre
 
-### Landing page  criado com **materializecss**
+### Landing page foi desenvolvida com **materializecss**
 
 
 ## tecnologia utilizada
 
 ### Esta landing page foi desenvolvida com as seguintes tecnologias
 
-Html
-Css
-jquery
+* Html
+* Css
+* gitjquery

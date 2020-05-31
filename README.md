@@ -13,4 +13,4 @@
 
 * Html
 * Css
-* gitjquery
+* jquery

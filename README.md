@@ -7,7 +7,7 @@
 ### Landing page foi desenvolvida com **materializecss**
 
 
-## tecnologia ultilizada
+## tecnologia utilizada
 
 ### Esta landing page foi desenvolvida com as seguintes tecnologias
 
